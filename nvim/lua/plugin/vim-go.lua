@@ -1,2 +1,0 @@
-hrequire("go").setup()
-
